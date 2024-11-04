@@ -26,3 +26,12 @@ Header | Definition
 `male_share` | Percentage of people with the name who are male
 `female_share` | Percentage of people with the name who are female
 `gap` | Gap between male_share and female_share
+
+This dataset is read using pandas, based of the raw data url.  
+
+The script then finds the 5 most popular gender neutral names in our data set, based on the ```total``` column, which yields the following results: 
+![mostpopular](readme_images/mostpopular.png)  
+
+The script also then find the names with the largest and smallest gender gaps, in a sense finding the top 5 gender neutral names that are most commonly associated with one of the genders, but are still considered gender neutral, and the gender neutral names that are the most gender neutral, which yields the following results: 
+![gapanalysis](readme_images/gendergapanalysis.png)  
+
