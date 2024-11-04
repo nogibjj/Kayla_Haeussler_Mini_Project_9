@@ -1,8 +1,8 @@
 # Kayla_Haeussler_Mini_Project_9
 
-IDS 706: Mini Project 9
-Cloud-Hosted Notebook Data Manipulation
-Kayla Haeussler
+IDS 706: Mini Project 9  
+Cloud-Hosted Notebook Data Manipulation  
+Kayla Haeussler  
 
 ## Assignment Requirements
 * Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab)
